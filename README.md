@@ -3,6 +3,6 @@
 
 В данном репозитории будут публиковаться домашние задания по курсу **"Компьютерные инструменты лингвистического исследования"**
 
-[ДЗ №1](https://github.com/biinins/ethiopia_CILS/dz1/table.md)
+[ДЗ №1](https://biinins.github.io/ethiopia_CILS/dz1/table.md)
 
 
