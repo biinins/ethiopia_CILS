@@ -4,6 +4,7 @@
 В данном репозитории будут публиковаться домашние задания по курсу **"Компьютерные инструменты лингвистического исследования"**
 
 [ДЗ №1](https://biinins.github.io/ethiopia_CILS/dz/dz1)
-<p>[ДЗ №3](https://biinins.github.io/dz3)</p>
+
+[ДЗ №3](https://biinins.github.io/dz3)
 
 
