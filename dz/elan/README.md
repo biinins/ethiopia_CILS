@@ -18,4 +18,6 @@ Time Subdivision, блоки аннотаций связаны с временн
 
 [Файлы](https://github.com/biinins/ethiopia_CILS/tree/main/dz/elan)
 
-**Оригинальный видео файл не загрузился из-за большого размера, поэтому прикрепляю ссылку на Google Drive:** https://drive.google.com/drive/folders/1gzNu77jxpXPtlSGw1NPdleMu7LHBl599?usp=sharing
+**Оригинальный видео файл не загрузился из-за большого размера, поэтому прикрепляю [ссылку на Google Drive](https://drive.google.com/drive/folders/1gzNu77jxpXPtlSGw1NPdleMu7LHBl599?usp=sharing
+)**
+
