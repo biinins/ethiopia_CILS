@@ -16,4 +16,6 @@ Time Subdivision, блоки аннотаций связаны с временн
  
  3. hand gestures - жестовые движения рук, одной или обеих (тип - hand gestures, значения - one hand, two hands)
 
+[Файлы](https://biinins.github.io/ethiopia_CILS/dz/elan)
+
 **Оригинальный видео файл не загрузился из-за большого размера, поэтому прикрепляю ссылку на Google Drive:** https://drive.google.com/drive/folders/1gzNu77jxpXPtlSGw1NPdleMu7LHBl599?usp=sharing
