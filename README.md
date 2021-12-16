@@ -10,7 +10,7 @@
 
 [ДЗ №4](https://biinins.github.io/ethiopia_CILS/dz/elan)
 
-[ДЗ №5](https://biinins.github.io/ethiopia_CILS/dz/dz5/abram)
+[ДЗ №5](https://biinins.github.io/ethiopia_CILS/dz/abram)
 
 
 
