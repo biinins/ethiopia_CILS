@@ -199,7 +199,15 @@
 </table>
 
 
-![график](https://user-images.githubusercontent.com/63372538/147609205-5c886c8b-6257-4da9-8b63-9ff0fc2c8ed4.png)
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 424px; height: 261px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-fcf245d9bc1a3d65c1ed6835d17adc47&query=ethiopia&query=ethiopian&query=country&query=government&query=addis&corpus=2fe4d54c484526be6590f8bf57e836d6'></iframe>
+
+
 
 ![scatter](https://user-images.githubusercontent.com/63372538/147609774-1292648f-d615-4a75-a86a-a82f74103ef2.png)
 Рассматривая **ScatterPlot** корпуса, можно отметить интересную закономерность: большинство приведенных слов корпуса в более частотной мере используются во всех документах корпуса, кроме amh, который на визуализации занимает отдаленную позицию, находясь рядом со словами amharic, language, nations и selassie.
