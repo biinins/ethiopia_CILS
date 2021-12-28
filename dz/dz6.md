@@ -1,4 +1,4 @@
-# Домашнее задание № 6. VoyantTools
+# Домашнее задание № 6. VoyantTools #
 
 ![загружено](https://user-images.githubusercontent.com/63372538/147607984-6ec70e31-0ea6-49ea-82f9-06748d97af76.png)
 
@@ -137,7 +137,7 @@
 	</tbody>
 </table>
 
-На данном этапе я поняла, что подобные сочетания (ethiopia ethiopia, ethiopia ethiopian, ethiopian ethiopia) логичны, так как часто используются, поэтому я решила редактировать Options и добавить в stop list слова ethiopia и ethiopian, однако это не улучшило ситуацию (см. таблицу ниже).
+На данном этапе я поняла, что подобные сочетания (ethiopia ethiopia, ethiopia ethiopian, ethiopian ethiopia) логичны, так как часто используются, поэтому я решила редактировать **Options** и добавить в **stop list** слова ethiopia и ethiopian, однако это не улучшило ситуацию (см. таблицу ниже).
 
 
 <table>
