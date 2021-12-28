@@ -12,5 +12,5 @@
 
 [ДЗ №5](https://biinins.github.io/ethiopia_CILS/dz/dz5.html)
 
-
+[ДЗ №6](https://biinins.github.io/ethiopia_CILS/dz/dz6.html)
 
