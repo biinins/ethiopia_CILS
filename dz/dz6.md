@@ -199,14 +199,18 @@
 </table>
 
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 424px; height: 261px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-fcf245d9bc1a3d65c1ed6835d17adc47&query=ethiopia&query=ethiopian&query=country&query=government&query=addis&corpus=2fe4d54c484526be6590f8bf57e836d6'></iframe>
+![график](https://user-images.githubusercontent.com/63372538/147612176-e1aeceac-53f5-4285-9c08-4957afcc6d28.png)
+**синий - ethiopia
+зелёный - ethiopian
+розовый - country
+фиолетовый - government
+голубой - addis**
 
+Изучив график, мы можем сделать вывод о том, что
+1) частотность ethiopia хоть и является высокой, тем не менее, нестабильна. Имеет наибольшие результаты в ch и ru, наименьшие - hu и no;
+2) частотность ethiopian имеет еще более нестабильные соотношения в документах корпуса. Наибольшая частотность наблюдается в he, jp и ru, наименьшая - amh, eng, no, hu;
+3) частотность country предстает зигзагоподной линией, однако остается в одних пределах. БОльшая частотность наблюдается в amh, ch, hu и no, остальные документы корпуса имеют относительно равные частотности;
+4) частотность government и addis представляет низкие показатели во всех документах корпуса.
 
 
 ![scatter](https://user-images.githubusercontent.com/63372538/147609774-1292648f-d615-4a75-a86a-a82f74103ef2.png)
