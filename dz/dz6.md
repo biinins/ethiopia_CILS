@@ -134,5 +134,6 @@
 	</tbody>
 </table>
 
-<iframe style='width: 424px; height: 290px;' src='https://voyant-tools.org/tool/Trends/?query=ethiopia&query=ethiopian&query=country&query=government&query=addis&mode=&corpus=2fe4d54c484526be6590f8bf57e836d6'></iframe>
+![image](https://user-images.githubusercontent.com/63372538/147609052-40a9cc38-3f55-4e17-b1f7-797252dcc163.png)
+
 
