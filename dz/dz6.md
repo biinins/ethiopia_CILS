@@ -134,6 +134,7 @@
 	</tbody>
 </table>
 
-![image](https://user-images.githubusercontent.com/63372538/147609052-40a9cc38-3f55-4e17-b1f7-797252dcc163.png)
+
+![график](https://user-images.githubusercontent.com/63372538/147609205-5c886c8b-6257-4da9-8b63-9ff0fc2c8ed4.png)
 
 
